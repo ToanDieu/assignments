@@ -19,6 +19,7 @@ Builds the app for production to the `build` folder.\
 
     React
     Redux
+    Redux-saga
     React-Router
     Typescript
     Express.js
