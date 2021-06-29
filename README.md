@@ -1,6 +1,6 @@
-## git clone
+## git clone https://github.com/ToanDieu/assignments.git
 
-## run `npm install` to install all dependencies
+## run `npm install` to install all needs dependencies
 
 ### `npm run dev`
 
