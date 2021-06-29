@@ -1,6 +1,6 @@
 import OverlayLayer from "../OverlayLayer";
 import { Spinner } from "react-bootstrap";
-import "./loadingIndicator.scss";
+import "./index.scss";
 
 const LoadingIndicator = () => {
   return (

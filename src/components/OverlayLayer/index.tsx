@@ -1,6 +1,6 @@
 import { Fragment } from "react";
 import cc from "classnames";
-import "./overlayLayer.scss";
+import "./index.scss";
 
 const OverlayLayer = (props: any) => {
   const { isShow, children } = props;
