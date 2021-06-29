@@ -86,7 +86,7 @@ Builds the app for production to the `build` folder.\
         - store
             middleware.ts
             index.ts
-        - store
+        - utils
             actionTypes.ts
             index.ts
         App.tsx
