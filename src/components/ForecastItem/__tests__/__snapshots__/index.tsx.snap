@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ForecastItem/> should render and match snapshort 1`] = `
+<div
+  class="forecast-item"
+>
+  <span
+    class="forecast-item__title"
+  >
+    today
+  </span>
+  <div
+    class="forecast-item__status status"
+  >
+    <img
+      alt="lr"
+      class="status__icon"
+      src="https://www.metaweather.com//static/img/weather/lr.svg"
+    />
+    <span
+      class="status__text"
+    >
+      light rain
+    </span>
+  </div>
+  <span
+    class="forecast-item__celsius"
+  >
+    Max: 10 
+    ℃
+  </span>
+  <span
+    class="forecast-item__celsius"
+  >
+    Min: 8 
+    ℃
+  </span>
+</div>
+`;

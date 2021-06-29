@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SearchInput/> SearchInput should render and match snapshot 1`] = `
+<div
+  class="search-input container"
+>
+  <div
+    class="search-input__content content row"
+  >
+    <div
+      class="col-lg-8 col-md-8 col-sm-8"
+    />
+    <div
+      class="col-lg-4 col-md-4 col-sm-4"
+    >
+      <div>
+        <img
+          alt="icon serach"
+          class="content__icon"
+          src="icon-search.svg"
+        />
+        <input
+          class="content__input form-control"
+          placeholder="Enter city name"
+          value=""
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

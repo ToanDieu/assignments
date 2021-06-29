@@ -1,0 +1,13 @@
+.list-forecast {
+  border: 1px solid #c2c2c2;
+  padding: 30px;
+  &__city {
+    color: #337ab7;
+    font-weight: 500;
+    font-size: 18px;
+    display: block;
+  }
+  &__current {
+    font-size: 12px;
+  }
+}

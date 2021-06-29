@@ -1,0 +1,29 @@
+.forecast-item {
+  width: 100%;
+  &__title {
+    color: #337ab7;
+    font-weight: 500;
+    display: block;
+    width: 100%;
+    text-align: initial;
+  }
+  &__status {
+    display: flex;
+    align-items: baseline;
+    margin: 20px 0;
+    .status {
+      &__icon {
+        width: 32px;
+        height: 32px;
+        margin: 0 5px 0 0;
+      }
+      &__text {
+        font-size: 13px;
+      }
+    }
+  }
+  &__celsius {
+    display: flex;
+    font-size: 13px;
+  }
+}

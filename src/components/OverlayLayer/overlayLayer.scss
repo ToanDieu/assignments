@@ -1,0 +1,19 @@
+$color-black: #000;
+
+.overlay-layer {
+  display: none;
+  position: fixed;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: $color-black;
+  z-index: 9999;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  &.show {
+    display: flex;
+    opacity: 0.7;
+  }
+}

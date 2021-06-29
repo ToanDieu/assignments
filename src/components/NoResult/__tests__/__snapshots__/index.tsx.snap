@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NoResult/> NoResult should render and match snapshort 1`] = `
+<div
+  class="list-forecast container"
+>
+  <div
+    class="row"
+  >
+    <div
+      class="col-lg-12 col-md-12 col-sm-12"
+    >
+      <h1
+        class="text-center"
+      >
+        No result
+      </h1>
+    </div>
+  </div>
+</div>
+`;
